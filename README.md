@@ -2,8 +2,8 @@
 
 > This project aims to add AMS compatibility to the Bambu A1 Mini. This project is designed to use mostly 3D-Printed parts and off the shelf components
 
-![Image](./Images/Img1)
-![Image](./Images/Img2)
+![Image](img/image1.png)
+![Image](img/image2.png)
 
 ## 🔧 Features
 - Has 2 x Nema17 Motors To Swap Between 2 Filaments
