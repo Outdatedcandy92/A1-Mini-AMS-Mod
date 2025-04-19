@@ -19,7 +19,7 @@
 | [Pneumatic Fitting PC4 M5](https://www.aliexpress.com/item/4001278366484.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000033549646137%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)           | 2pcs         |
 | [PTFE Tube](https://www.aliexpress.com/item/1005006242932887.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000038262545100%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)                       | 2-4 meter    |
 | [TMC2208](https://www.aliexpress.com/item/1005007299296781.html?spm=a2g0o.order_detail.order_detail_item.4.404df19cI8Ot3E) or any compatible motor driver                                   | 2pcs         |
-| ESP32 Board                                                                                                                                                                                 |              |
+| ESP32 or Any Microcontroller                                                                                                                                                                |              |
 
 ## 📂 Files 
 - `CAD/STL` — All printable parts are here
